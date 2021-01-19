@@ -1,0 +1,35 @@
+{
+    "CamzpaignID": "1",
+    "Calltype": "0",
+    "CallStartDateTime": "17/06/2019 01:05",
+    "CallEndDateTime": "17/06/2019 01:15",
+    "CampaignStartTime": "17/06/2019 01:05",
+    "CampaignEndTime":"",
+    
+
+    "BussinessFields": "<Data>
+                            <LastName> Pierare</LastName>
+                            <ZipCode>02124</ZipCode>
+                            <MemberName>John</MemberName>
+                            <DOB>02/02/2002</DOB>
+                            <Phone>QNXT</Phone>
+                            <Language>English</Language>
+                            
+                                <address>19 Adams Street NJ</address><accountnumber>65735856</accountnumber>
+                                </Data>",
+    "priority": 0,
+    "Modes":  <Data><Home><Cvalue>609309034</Cvalue>
+              <TZ>(UTC-05:00) Eastern Time (US andCanada)</TZ>
+              </Home><Office><Cvalue>732309234</Cvalue>
+              <TZ>(UTC-05:00) Eastern Time (US andCanada)</TZ>
+              </Office></Data>
+    "AgentID": "18254",
+    "SMSData": "",
+    "MailSubject": "",
+    "MailMsg": "",
+    "MailAttachment": "",
+    "ZipCode": "",
+    "ContactDetail": "<DATA><FNAME>John</FNAME><LNAME>crag</LNAME><NUMBER>9962758357</NUMBER>
+    <BALANCE>5000</BALANCE><ZIPCODE>08540</ZIPCODE></DATA>",
+    "ListID": 10
+} 
